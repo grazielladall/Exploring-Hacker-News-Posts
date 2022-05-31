@@ -15,3 +15,5 @@ The main objective of the project is to answer the following questions:
 The data set used in this project can be found [here](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts).
 
 The entire project showing the data manipulation process and conclusion can be found [here](https://github.com/grazielladall/Exploring-Hacker-News-Posts/blob/main/Exploring%20Hackers%20News%20Posts.ipynb).
+
+This project is intended for EDUCATIONAL purposes only.
